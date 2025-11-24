@@ -1,3 +1,5 @@
+![ida-banner](https://ida-github-banner.vercel.app/api/banner?name=Jimi)
+
 ### Hi there 🏄
 
 I'm a fullstack [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) developer, mainly using [typescript](https://github.com/Microsoft/TypeScript) and [react](https://github.com/facebook/react/), writing code on [vscode](https://github.com/microsoft/vscode) on macos. I also love using [flutter](https://github.com/flutter/flutter) to create mobile applications and [golang](https://github.com/golang/go) to build strong APIs and CLIs.
