@@ -1,4 +1,4 @@
-![ida-banner](https://ida-github-banner.vercel.app/api/banner?name=Jimi)
+[![ida-banner](https://ida-github-banner.vercel.app/api/banner?name=Jimi)](https://www.ida.eu/)
 
 ### Hi there 🏄
 
