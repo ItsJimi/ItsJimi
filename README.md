@@ -1,4 +1,4 @@
-[![ida-banner](https://ida-github-banner.vercel.app/api/banner?name=Pourfendeur%20de%20démarque)](https://www.ida.eu/)
+[![ida-banner](https://ida-github-banner.vercel.app/api/banner?name=Pourfendeur%20de%20démarques)](https://www.ida.eu/)
 
 ### Hi there 🏄
 
